@@ -2,6 +2,9 @@
 body {
     font-family: "Avenir", sans-serif;
 }
+.cp_embed_wrapper {
+    margin-bottom: 2%;
+}
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
