@@ -19,8 +19,6 @@ For this example we will use this grid:
 5. So the `.header, .content, .footer` class will be in our css `grid-column: 2 / -1;` this instruction will place our three divs at the second column and goes to the last column in the grid because of the `-1`.
 6. For our `menu` div, we now have three columns who are placed along the horizontal axis because we played with the `grid-column` instruction, but we now want that our `menu` div will stretch to fill all the row in our grid, so the instruction will be `grid-row: 1 / -1;`. So once again our div should now start at the first row of our grid and ending at the last row in our grid.
 
-
-
 ## Current errors
 This is a list of the main errors that you can meet:
 > **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-css-grid) if you find a new error not mentioned above.
