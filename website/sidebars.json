@@ -1,6 +1,6 @@
 {
   "docs": {
     "Setup": ["overview"],
-    "Css grid": ["first-grid","fr-unit","repeat-function","grid-template-shorthand"]
+    "Css grid": ["first-grid","fr-unit","repeat-function","grid-template-shorthand","positionning-items"]
   }
 }
