@@ -9,3 +9,7 @@
 3. You can do the same with row with the `grid-template-rows` instruction.
 4. If you want you can create some gap with the `grid-gap` instruction.
 5. In `grid-template-columns` and `grid-template-rows` one parameter is equal to one column or one row, and don't forget to give size to your rows and columns.
+
+## Current errors
+This is a list of the main errors that you can meet:
+> **Note:** I'm not a wizard there is maybe some issue that you notice above so fell free to open an issue in the [github repo](https://github.com/luctst/learn-css-grid) if you find a new error not mentioned above.
